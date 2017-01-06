@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WeMoOutletLEDControl</string>
+
+    <string name="title_activity_wemo_control">WeMo</string>
+    <string name="title_activity_outlet_control">Outlets</string>
+    <string name="title_activity_led_control">LEDs</string>
+    <string name="wemo_ip">Host</string>
+    <string name="wemo_port">Port</string>
+    <string name="wemo_toggle">Toggle</string>
+    <string name="wemo_ip_edit">192.168.178.27</string>
+    <string name="wemo_port_edit">49153</string>
+    <string name="host">Host</string>
+    <string name="host_ip_edit">192.168.178.27</string>
+    <string name="port">Port</string>
+    <string name="port_edit">49153</string>
+    <string name="toggle">Toggle</string>
+    <string name="title_activity_remote_switch_bricklet">RemoteSwitch</string>
+    <string name="uid">UID</string>
+    <string name="uid_edit">v4N</string>
+    <string name="house_code">House Code</string>
+    <string name="house_code_edit">31</string>
+    <string name="outlet_1">Turn On A</string>
+    <string name="outlet_2">Turn On B</string>
+    <string name="outlet_3">Turn On C</string>
+    <string name="outlet_4">Turn On D</string>
+    <string name="setColor">Set Color</string>
+    <string name="leds_state">On</string>
+</resources>

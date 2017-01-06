@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/leo/GitHub/Android/WeMoOutletLEDControl_new/androidColorPickermaster/build/intermediates/res/merged/debug/layout/act_demo.xml",
+        "source": "/home/leo/GitHub/Android/WeMoOutletLEDControl_new/androidColorPickermaster/src/main/res/layout/act_demo.xml"
+    },
+    {
+        "merged": "/home/leo/GitHub/Android/WeMoOutletLEDControl_new/androidColorPickermaster/build/intermediates/res/merged/debug/layout/act_multi_picker.xml",
+        "source": "/home/leo/GitHub/Android/WeMoOutletLEDControl_new/androidColorPickermaster/src/main/res/layout/act_multi_picker.xml"
+    },
+    {
+        "merged": "/home/leo/GitHub/Android/WeMoOutletLEDControl_new/androidColorPickermaster/build/intermediates/res/merged/debug/layout/act_pref.xml",
+        "source": "/home/leo/GitHub/Android/WeMoOutletLEDControl_new/androidColorPickermaster/src/main/res/layout/act_pref.xml"
+    },
+    {
+        "merged": "/home/leo/GitHub/Android/Android_IoT/androidColorPickermaster/build/intermediates/res/merged/debug/layout/act_picker.xml",
+        "source": "/home/leo/GitHub/Android/Android_IoT/androidColorPickermaster/src/main/res/layout/act_picker.xml"
+    },
+    {
+        "merged": "/home/leo/GitHub/Android/Android_IoT/androidColorPickermaster/build/intermediates/res/merged/debug/layout/act_pref.xml",
+        "source": "/home/leo/GitHub/Android/Android_IoT/androidColorPickermaster/src/main/res/layout/act_pref.xml"
+    },
+    {
+        "merged": "/home/leo/GitHub/Android/WeMoOutletLEDControl_new/androidColorPickermaster/build/intermediates/res/merged/debug/layout/act_picker.xml",
+        "source": "/home/leo/GitHub/Android/WeMoOutletLEDControl_new/androidColorPickermaster/src/main/res/layout/act_picker.xml"
+    },
+    {
+        "merged": "/home/leo/GitHub/Android/Android_IoT/androidColorPickermaster/build/intermediates/res/merged/debug/layout/act_multi_picker.xml",
+        "source": "/home/leo/GitHub/Android/Android_IoT/androidColorPickermaster/src/main/res/layout/act_multi_picker.xml"
+    },
+    {
+        "merged": "/home/leo/GitHub/Android/Android_IoT/androidColorPickermaster/build/intermediates/res/merged/debug/layout/act_demo.xml",
+        "source": "/home/leo/GitHub/Android/Android_IoT/androidColorPickermaster/src/main/res/layout/act_demo.xml"
+    }
+]
